@@ -66,4 +66,4 @@ $ yarn dev
 
 ---
 
-2022 - [github.com/helenapaixao](https://github.com/helenapaixao)
+2024 - [github.com/helenapaixao](https://github.com/helenapaixao)
